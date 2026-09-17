@@ -1,5 +1,7 @@
 {
   "name": "wheel",
+  "description": "Wheel - life operating system is an app to keep track of stuffs",
+  "author": "Athira Kassim <athira.ysmn@gmail.com>",
   "version": "0.1.0",
   "private": true,
   "scripts": {
